@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyprMX",
-            url: "https://s3.amazonaws.com/prd-mobile-sdk-files/HyprMX/6.4.6/HyprMX_iOS_v6_4_6-b362.zip",
-            checksum: "79c41469dd8e514ae2bc8e5d547e916c49e2149310993fd8ace53e0113bf6281"
+            url: "https://s3.amazonaws.com/prd-mobile-sdk-files/HyprMX/6.4.7/HyprMX_iOS_v6_4_7-b363.zip",
+            checksum: "5e649344764b4687a1e0ea634ee843d8befef6100bbeaf5709bcd9d560073e90"
         )
     ]
 )
