@@ -1,5 +1,5 @@
 // swift-tools-version:5.3
-// HyprMX SDK version 6.4.6
+// HyprMX SDK version 6.4.7
 import PackageDescription
 
 let package = Package(
